@@ -137,4 +137,4 @@ const displayPhoneDetails = phone => {
 
 
 
-// loadPhone();
+loadPhone('apple');
